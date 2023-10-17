@@ -199,7 +199,7 @@ u128 MemoryViewTable::GetSelectedSegment()
 			val.lo = m_cpu->read8(selectedAddress);
 			break;
 		case MemoryViewType::BYTEHW:
-			val.lo = qToBigEndian((u16)m_cpu->read16(selectedAddress & ~1));
+			val.lo = qToBigEndian(m_cpu->read32(selectedAddress & ~3));
 			break;
 		case MemoryViewType::WORD:
 			val.lo = qToBigEndian(m_cpu->read32(selectedAddress & ~3));
