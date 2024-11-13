@@ -153,7 +153,7 @@ static void execI()
 	// ~4fps on 3.9GHz Haswell vs ~8fps (even 10fps on dev build))
 	// Extra note: due to some cycle count issue PCSX2's internal debugger is
 	// not yet usable with the interpreter
-//#define EXTRA_DEBUG
+#define EXTRA_DEBUG
 #if defined(EXTRA_DEBUG) || defined(PCSX2_DEVBUILD)
 	// check if any breakpoints or memchecks are triggered by this instruction
 	if (isBreakpointNeeded(cpuRegs.pc))
