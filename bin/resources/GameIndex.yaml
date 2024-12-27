@@ -858,7 +858,7 @@ PCPX-96318:
   region: "NTSC-J"
 PCPX-96319:
   name: "ピポサル2001 [体験版]"
-  name-sort: "ぴぽさる2001 [たいけんばｎ]"
+  name-sort: "ぴぽさる2001 [たいけんばん]"
   name-en: "Pipo Saru 2001 [Trial]"
   region: "NTSC-J"
 PCPX-96320:
@@ -35282,7 +35282,7 @@ SLPM-62199:
   region: "NTSC-J"
 SLPM-62200:
   name: "ホースブレーカー [コーエーサマ－チャンス 2002]"
-  name-sort: "ほーすぶれーかー [こーえーさｍ－ちゃんす 2002]"
+  name-sort: "ほーすぶれーかー [こーえーさま－ちゃんす 2002]"
   name-en: "Horse Breaker [Koei Summer Chance 2002]"
   region: "NTSC-J"
 SLPM-62201:
@@ -36138,7 +36138,7 @@ SLPM-62370:
   name-en: "Psyvariar Medium Unit [Superlite 2000 Series]"
   region: "NTSC-J"
 SLPM-62371:
-  name: "SuperLite 2000 シューティング サイヴァリア ～REVISOＮ～"
+  name: "SuperLite 2000 シューティング サイヴァリア ～REVISON～"
   name-sort: "すーぱーらいと 2000 しゅーてぃんぐ さいヴぁりあ りびじょん"
   name-en: "Psyvariar Revision [Superlite 2000 Series]"
   region: "NTSC-J"
@@ -45712,7 +45712,7 @@ SLPM-66249:
   gsHWFixes:
     moveHandler: "MV_Growlanser" # Fixes precomputed depth buffer.
 SLPM-66250:
-  name: "ATLUS BEST COLLECTION チョロＱＨＧ4"
+  name: "ATLUS BEST COLLECTION チョロＱ HG4"
   name-sort: "ATLUS BEST COLLECTION ちょろQHG4"
   name-en: "Choro Q HG 4 [Takara Best]"
   region: "NTSC-J"
@@ -54030,9 +54030,9 @@ SLPS-25005:
   region: "NTSC-J"
   compat: 5
 SLPS-25006:
-  name: "栄冠は君に ～甲子園への道"
+  name: "栄冠は君に ～甲子園への道～"
   name-sort: "えいかんはきみに こうしえんへのみち"
-  name-en: "Eikan ha Kimini - Koushine he no Michi"
+  name-en: "Eikan ha Kimini - Koushien he no Michi"
   region: "NTSC-J"
 SLPS-25007:
   name: "アーマード・コア 2"
@@ -58323,7 +58323,7 @@ SLPS-25729:
   name-en: "Kujibiki Unbalance"
   region: "NTSC-J"
 SLPS-25730:
-  name: "アーマード・コア ラストレイブン [MACHINE SIDE BOX]"
+  name: "アーマード・コア ラストレイヴン [MACHINE SIDE BOX]"
   name-sort: "あーまーどこあ らすとれいゔん [MACHINE SIDE BOX]"
   name-en: "Armored Core - Last Raven [Machine Side Box]"
   region: "NTSC-J"
@@ -60389,7 +60389,7 @@ SLPS-73246:
   name-en: "Gundam True Odyssey [PlayStation 2 the Best]"
   region: "NTSC-J"
 SLPS-73247:
-  name: "アーマード・コア ラストレイブン [PlayStation 2 the Best]"
+  name: "アーマード・コア ラストレイヴン [PlayStation 2 the Best]"
   name-sort: "あーまーどこあ らすとれいゔん [PlayStation 2 the Best]"
   name-en: "Armored Core - Last Raven [PlayStation 2 the Best]"
   region: "NTSC-J"
