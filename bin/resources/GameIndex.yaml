@@ -58333,7 +58333,7 @@ SLPS-25730:
     preloadFrameData: 1 # Fixes glowing emblems.
 SLPS-25731:
   name: "アーマード・コア 2 [MACHINE SIDE BOX]"
-  name-sort: "あーまーどこあ2 [MACHINE SIDE BOX]"
+  name-sort: "あーまーどこあ 2 [MACHINE SIDE BOX]"
   name-en: "Armored Core 2 [MACHINE SIDE BOX]"
   region: "NTSC-J"
   clampModes:
@@ -58343,7 +58343,7 @@ SLPS-25731:
     textureInsideRT: 1 # Fixes texture corruption.
 SLPS-25732:
   name: "アーマード・コア 3 [MACHINE SIDE BOX]"
-  name-sort: "あーまーどこあ3 [MACHINE SIDE BOX]"
+  name-sort: "あーまーどこあ 3 [MACHINE SIDE BOX]"
   name-en: "Armored Core 3 [MACHINE SIDE BOX]"
   region: "NTSC-J"
   gsHWFixes:
